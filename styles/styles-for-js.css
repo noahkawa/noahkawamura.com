@@ -1,0 +1,478 @@
+/* Styles for js ===============================*/
+/*containers*/
+
+#random-image-n01-container,
+#random-image-o02-container,
+#random-image-a03-container,
+#random-image-h04-container,
+#random-image-k05-container,
+#random-image-a06-container,
+#random-image-w07-container,
+#random-image-a08-container,
+#random-image-m09-container,
+#random-image-u10-container,
+#random-image-r11-container,
+#random-image-a12-container,
+#random-image-gen-container,
+#random-image-exe-container,
+#random-image-see-container,
+#random-image-con-container,
+#gen,
+#distil,
+#exe,
+#see,
+#con {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* N */
+.n01-a {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-a.svg);
+}
+
+.n01-b {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-b.svg);
+}
+
+.n01-c {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-c.svg);
+}
+
+.n01-d {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-d.svg);
+}
+
+.n01-e {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-e.svg);
+}
+
+.n01-f {
+    background-image: url(../assets/main-letters/01-n/noah-kawamura-vancouver-graphic-designer-logo-design-icon-n01-f.svg);
+}
+
+/* O */
+.o02-a {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-a.svg);
+}
+
+.o02-b {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-b.svg);
+}
+
+.o02-c {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-c.svg);
+}
+
+.o02-d {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-d.svg);
+}
+
+.o02-e {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-e.svg);
+}
+
+.o02-f {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-f.svg);
+}
+
+.o02-g {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-g.svg);
+}
+
+.o02-h {
+    background-image: url(../assets/main-letters/02-o/noah-kawamura-vancouver-graphic-designer-logo-design-icon-o02-h.svg);
+}
+
+/* A */
+.a03-a {
+    background-image: url(../assets/main-letters/03-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a03-a.svg);
+}
+
+.a03-b {
+    background-image: url(../assets/main-letters/03-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a03-b.svg);
+}
+
+.a03-c {
+    background-image: url(../assets/main-letters/03-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a03-c.svg);
+}
+
+.a03-d {
+    background-image: url(../assets/main-letters/03-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a03-d.svg);
+}
+
+.a03-e {
+    background-image: url(../assets/main-letters/03-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a03-e.svg);
+}
+
+/* H */
+.h04-a {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-a.svg);
+}
+
+.h04-b {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-b.svg);
+}
+
+.h04-c {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-c.svg);
+}
+
+.h04-d {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-d.svg);
+}
+
+.h04-e {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-e.svg);
+}
+
+.h04-f {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-f.svg);
+}
+
+.h04-g {
+    background-image: url(../assets/main-letters/04-h/noah-kawamura-vancouver-graphic-designer-logo-design-icon-h04-g.svg);
+}
+
+/* K */
+.k05-a {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-a.svg);
+}
+
+.k05-b {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-b.svg);
+}
+
+.k05-c {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-c.svg);
+}
+
+.k05-d {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-d.svg);
+}
+
+.k05-e {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-e.svg);
+}
+
+.k05-f {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-f.svg);
+}
+
+.k05-g {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-g.svg);
+}
+
+.k05-h {
+    background-image: url(../assets/main-letters/05-k/noah-kawamura-vancouver-graphic-designer-logo-design-icon-k05-h.svg);
+}
+
+/* A */
+.a06-a {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-a.svg);
+}
+
+.a06-b {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-b.svg);
+}
+
+.a06-c {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-c.svg);
+}
+
+.a06-d {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-d.svg);
+}
+
+.a06-e {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-e.svg);
+}
+
+.a06-f {
+    background-image: url(../assets/main-letters/06-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-a06-f.svg);
+}
+
+/* W */
+.w07-a {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-a.svg);
+}
+
+.w07-b {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-b.svg);
+}
+
+.w07-c {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-c.svg);
+}
+
+.w07-d {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-d.svg);
+}
+
+.w07-e {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-e.svg);
+}
+
+.w07-f {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-f.svg);
+}
+
+.w07-g {
+    background-image: url(../assets/main-letters/07-w/noah-kawamura-vancouver-graphic-designer-logo-design-icon-07w-g.svg);
+}
+
+/* A */
+.a08-a {
+    background-image: url(../assets/main-letters/08-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-08a-a.svg);
+}
+
+.a08-b {
+    background-image: url(../assets/main-letters/08-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-08a-b.svg);
+}
+
+.a08-c {
+    background-image: url(../assets/main-letters/08-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-08a-c.svg);
+}
+
+.a08-d {
+    background-image: url(../assets/main-letters/08-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-08a-d.svg);
+}
+
+.a08-e {
+    background-image: url(../assets/main-letters/08-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-08a-e.svg);
+}
+
+/* M */
+.m09-a {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-a.svg);
+}
+
+.m09-b {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-b.svg);
+}
+
+.m09-c {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-c.svg);
+}
+
+.m09-d {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-d.svg);
+}
+
+.m09-e {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-e.svg);
+}
+
+.m09-f {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-f.svg);
+}
+
+.m09-g {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-g.svg);
+}
+
+.m09-h {
+    background-image: url(../assets/main-letters/09-m/noah-kawamura-vancouver-graphic-designer-logo-design-icon-09m-h.svg);
+}
+
+/*U*/
+.u10-a {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-a.svg);
+}
+
+.u10-b {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-b.svg);
+}
+
+.u10-c {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-c.svg);
+}
+
+.u10-d {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-d.svg);
+}
+
+.u10-e {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-e.svg);
+}
+
+.u10-f {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-f.svg);
+}
+
+.u10-g {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-g.svg);
+}
+
+.u10-h {
+    background-image: url(../assets/main-letters/10-u/noah-kawamura-vancouver-graphic-designer-logo-design-icon-10u-h.svg);
+}
+
+/*R*/
+.r11-a {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-a.svg)
+}
+
+.r11-b {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-b.svg)
+}
+
+.r11-c {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-c.svg)
+}
+
+.r11-d {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-d.svg)
+}
+
+.r11-e {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-e.svg)
+}
+
+.r11-f {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-f.svg)
+}
+
+.r11-g {
+    background-image: url(../assets/main-letters/11-r/noah-kawamura-vancouver-graphic-designer-logo-design-icon-11r-g.svg)
+}
+
+/*A*/
+.a12-a {
+    background-image: url(../assets/main-letters/12-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-12a-a.svg)
+}
+
+.a12-b {
+    background-image: url(../assets/main-letters/12-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-12a-b.svg)
+}
+
+.a12-c {
+    background-image: url(../assets/main-letters/12-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-12a-c.svg)
+}
+
+.a12-d {
+    background-image: url(../assets/main-letters/12-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-12a-d.svg)
+}
+
+.a12-e {
+    background-image: url(../assets/main-letters/12-a/noah-kawamura-vancouver-graphic-designer-logo-design-icon-12a-e.svg)
+}
+
+/*===============================*/
+
+/*Generation*/
+.gen-a {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-a.svg)
+}
+
+.gen-b {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-b.svg)
+}
+
+.gen-c {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-c.svg)
+}
+
+.gen-d {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-d.svg)
+}
+
+.gen-e {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-e.svg)
+}
+
+.gen-f {
+    background-image: url(../assets/more-shapes/generation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-generation-01-f.svg)
+}
+
+
+/* distillation*/
+#distil {
+    background-image: url(../assets/more-shapes/distillation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-distillation-a.svg)
+}
+
+#distil:hover {
+    background-image: url(../assets/more-shapes/distillation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-distillation-x.svg)
+}
+
+#distil:active {
+    background-image: url(../assets/more-shapes/distillation/noah-kawamura-vancouver-graphic-designer-logo-design-icon-distillation-x.svg)
+}
+
+/* execution*/
+
+.exe-a {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-a.svg)
+}
+
+.exe-b {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-b.svg)
+}
+
+.exe-c {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-c.svg)
+}
+
+.exe-d {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-d.svg)
+}
+
+.exe-e {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-e.svg)
+}
+
+.exe-f {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-f.svg)
+}
+
+.exe-g {
+    background-image: url(../assets/more-shapes/execution/noah-kawamura-vancouver-graphic-designer-logo-design-icon-execution-g.svg)
+}
+
+/* see more projects arrow*/
+
+.see-a {
+    background-image: url(../assets/more-shapes/see-more-projects-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-01-a.svg)
+}
+
+.see-b {
+    background-image: url(../assets/more-shapes/see-more-projects-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-01-b.svg)
+}
+
+.see-c {
+    background-image: url(../assets/more-shapes/see-more-projects-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-01-c.svg)
+}
+
+.see-d {
+    background-image: url(../assets/more-shapes/see-more-projects-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-01-d.svg)
+}
+
+.see-e {
+    background-image: url(../assets/more-shapes/see-more-projects-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-01-e.svg)
+}
+
+/* contact arrow*/
+
+.con-a {
+    background-image: url(../assets/more-shapes/contact-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-02-a.svg)
+}
+
+.con-b {
+    background-image: url(../assets/more-shapes/contact-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-02-b.svg)
+}
+
+.con-c {
+    background-image: url(../assets/more-shapes/contact-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-02-c.svg)
+}
+
+.con-d {
+    background-image: url(../assets/more-shapes/contact-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-02-d.svg)
+}
+
+.con-e {
+    background-image: url(../assets/more-shapes/contact-arrow/noah-kawamura-vancouver-graphic-designer-logo-design-icon-arrow-02-e.svg)
+}
